@@ -90,6 +90,6 @@ Linear SVM consistently outperformed Naive Bayes on both the small subset and th
 - Matplotlib (visualization of confusion matrix)
 
 ## Author
-Siddharthsinh Rathod
+Siddharthsinh Rathod  
 Project NLP : DLBAIPNLP01 - Task 1  
 IU International University of Applied Sciences

@@ -62,7 +62,7 @@ The following steps were implemented:
 
 ### Full Dataset Experiment
 - 25,000 training samples
-- 25,000 testing samples (official split)
+- 25,000 testing samples
 
 ## Results
 
